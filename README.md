@@ -6,7 +6,7 @@ L'utilisateur choisit son nom et une classe de personnage.
 Le plateau a une dimension 10x10.
 Le but du jeu est d'arriver dans le coin opposé du départ.
 
-#### Combat
+### Combat
 
 Le joueur a la possibilité d'attaquer le monstre.
 À chaque attaque, le monstre riposte.
